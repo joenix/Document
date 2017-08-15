@@ -71,10 +71,10 @@
 #### 抄送与密件抄送
 `<a href=“mailto:joenix@qq.com?cc=example@qq.com&bcc=example@qq.com">发送邮件</a>`
 
-* 主题邮件
+#### 主题邮件
 `<a href="mailto:joenix@qq.com?subject=theme">发送邮件</a>`
 
-* 内容体邮件（HTML自动识别，包括链接、图片等）
+#### 内容体邮件（HTML自动识别，包括链接、图片等）
 `<a href="mailto:joenix@qq.com?body=<img src='img/theme.jpg'/>http(s)://joenix.com/">发送邮件</a>`
 
 ### 111
