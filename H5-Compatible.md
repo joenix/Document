@@ -66,7 +66,7 @@
 ### 邮件的复合使用
 
 - 多个收件人
-`<a href=“mailto:joenix@qq.com;example@qq.com">发送邮件</a>`
+```<a href=“mailto:joenix@qq.com;example@qq.com">发送邮件</a>```
 
 - 抄送与密件抄送
 `<a href=“mailto:joenix@qq.com?cc=example@qq.com&bcc=example@qq.com">发送邮件</a>`
