@@ -64,13 +64,16 @@
 `<a href="mailto:joenix@qq.com">发送邮件</a>`
 
 ### 邮件的复合使用
-1. 多个收件人
+- 多个收件人
 `<a href=“mailto:joenix@qq.com;example@qq.com">发送邮件</a>`
-2. 抄送与密件抄送
+
+- 抄送与密件抄送
 `<a href=“mailto:joenix@qq.com?cc=example@qq.com&bcc=example@qq.com">发送邮件</a>`
-3. 主题邮件
+
+- 主题邮件
 `<a href="mailto:joenix@qq.com?subject=theme">发送邮件</a>`
-4. 内容体邮件（HTML自动识别，包括链接、图片等）
+
+- 内容体邮件（HTML自动识别，包括链接、图片等）
 `<a href="mailto:joenix@qq.com?body=<img src='img/theme.jpg' />http(s)://joenix.com/">发送邮件</a>`
 
 ###
