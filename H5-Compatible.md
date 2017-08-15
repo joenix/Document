@@ -1,7 +1,7 @@
 ## Meta
 
 ### 设值缩放
-`<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />`
+```<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />```
 - width：设值 viewport 宽度（或 device-width）
 - height：设值 viewport 高度（通常情况下，设值宽度会自动解析高度，故可不设值）
 - initial-scale：设值初始化缩放比例
